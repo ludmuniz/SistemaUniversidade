@@ -82,7 +82,7 @@ SistemaUniversitario/
     └── professores.csv
 ```
 
-## 🧠 Funcionalidades.
+## 🧠 Funcionalidades
 
 - Cadastro, edição e listagem de:
   - Alunos
@@ -95,7 +95,7 @@ SistemaUniversitario/
 - Validações e tratamento de exceções customizadas
 - Interface de usuário baseada em console
 
-## 🚀 Como Executar.
+## 🚀 Como Executar
 
 ### Pré-requisitos:
 - Java JDK 17 ou superior
@@ -110,15 +110,15 @@ git clone https://github.com/seu-usuario/sistema-universitario.git
 Abrir o projeto na IDE.
 Rodar a classe App.java (br.edu.amazonia.App) como aplicação Java.
 
-## 📦 Tecnologias Utilizadas.
+## 📦 Tecnologias Utilizadas
 - Java 17
 - Arquivos CSV para persistência de dados
 - Estrutura de pacotes inspirada no Maven
 - Programação orientada a objetos
 
-## ⚠️ Observações.
+## ⚠️ Observações
 O projeto não utiliza Maven diretamente, mas adota uma estrutura similar, facilitando futuras migrações para Maven/Gradle se necessário.
 Os dados de exemplo estão disponíveis nos arquivos .csv incluídos no repositório.
 
-👨‍💻 Autores.
+👨‍💻 Autores
 [Ludmyla Coimbra Muniz Cordeiro]
